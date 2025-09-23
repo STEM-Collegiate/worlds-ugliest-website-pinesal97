@@ -1,10 +1,28 @@
 .e {
     color: rgb(255, 0, 0);
     font-style: italic;
+    border: 4px dotted brown;
+    background-color: burlywood;
+    
 }
 .p{
-    color: burlywood;
+    color: #deb887;
     font-style: oblique;
     background-color: navy;
 
+}
+
+
+
+.brown-border{
+    border: 4px dotted brown;
+    background-color: navy;
+    color: burlywood;
+    font-size: larger;
+}
+#calgary{
+   max-width:100%;
+}
+.border{
+    border: 3px blue;
 }
